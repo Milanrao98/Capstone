@@ -605,7 +605,7 @@ iframe {
 .contact-item:hover {
     transform: translateY(-10px); /* Move up by 10px */
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-
+}
 .contact-item h5 {
     font-size: 1.25rem;
     color: #333;
